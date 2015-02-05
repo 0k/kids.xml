@@ -1,0 +1,5 @@
+NAME="kids.xml"
+DESCRIPTION="Kids XML library."
+EMAIL="valentin.lab@kalysto.org"
+AUTHOR="Valentin Lab"
+AUTHOR_EMAIL="$AUTHOR <$EMAIL>"
